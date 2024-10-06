@@ -1,4 +1,4 @@
-# TimePrinciple
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&vCenter=true&width=700&lines=Unlimited+Code+Works;Time+Principle;Ruoqing+He" alt="Typing SVG" /></a>
 
 <a href="https://github.com/TimePrinciple">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimePrinciple&show_icons=true&theme=transparent&hide=stars,prs&show=reviews,prs_merged&custom_title=TimePrinciple&rank_icon=github&card_width=495" />
