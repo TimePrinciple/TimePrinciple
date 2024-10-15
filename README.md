@@ -1,5 +1,5 @@
 <a href="https://github.com/TimePrinciple">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1000&vCenter=true&width=700&lines=Unlimited+Code+Works;Time+Principle;Ruoqing+He" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=006AFF&size=48&pause=1000&vCenter=true&width=700&lines=Unlimited+Code+Works;Time+Principle;Ruoqing+He" alt="Typing SVG" />
 </a>
 
 <a href="https://github.com/TimePrinciple">
